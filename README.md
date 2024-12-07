@@ -5,7 +5,6 @@ A 'Password Manager' application developed in Python. Tkinter package is used to
 
 This application enables users to generate strong passwords (with letters, symbols and numbers) and store passwords locally in a file, and allows the users to search for saved passwords.
 
-
 ## Developed Using:
 [Python](https://www.python.org/)
 
