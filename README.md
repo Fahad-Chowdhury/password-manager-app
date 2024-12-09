@@ -16,6 +16,7 @@ This application enables users to generate strong passwords (with letters, symbo
 - random
 - json
 
+
 ## Contact Information:
 Fahad Chowdhury\
 [LinkedIn](https://www.linkedin.com/in/fahad-chowdhury-fi)\
