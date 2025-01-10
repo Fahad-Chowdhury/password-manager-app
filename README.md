@@ -1,5 +1,6 @@
 # **Password Manager**
 
+
 ## About
 A 'Password Manager' application developed in Python. Tkinter package is used to implement the user interface of the application.
 
